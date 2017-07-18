@@ -1,0 +1,5 @@
+Y:\work\APSConnect\SimpleConsoleAPI\SimpleConsoleAPI\bin\Debug\SimpleConsoleAPI.exe.config
+Y:\work\APSConnect\SimpleConsoleAPI\SimpleConsoleAPI\bin\Debug\SimpleConsoleAPI.exe
+Y:\work\APSConnect\SimpleConsoleAPI\SimpleConsoleAPI\bin\Debug\SimpleConsoleAPI.pdb
+Y:\work\APSConnect\SimpleConsoleAPI\SimpleConsoleAPI\obj\Debug\SimpleConsoleAPI.exe
+Y:\work\APSConnect\SimpleConsoleAPI\SimpleConsoleAPI\obj\Debug\SimpleConsoleAPI.pdb
